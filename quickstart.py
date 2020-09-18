@@ -5,10 +5,9 @@ Examples of usage are demonstrated in this quickstart.py file
 
 from bot import *
 from helpers.socials import Socials
-import constants
 
-email = constants.email
-password = constants.password
+email = "example@email.com"
+password = "password123"
 
 if __name__ == "__main__":
 
